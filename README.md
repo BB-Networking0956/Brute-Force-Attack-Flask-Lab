@@ -18,11 +18,12 @@ A simple Python script to brute-force username and password combinations against
 ### 1. Install Requirements
 1. Create venv (python -m venv venv)
 
-Activate venv (.\venv\Scripts\Activate)
+2. Activate venv (.\venv\Scripts\Activate)
 
-Install packages if haven't been done before (pip install flask requests)
+3. Install packages if haven't been done before (pip install flask requests)
 
-Start Flask app (python app.py)
+4. Start Flask app (python app.py)
 
+5. Within virtual enviroment, Run brute force (python attack.py)
 
-Within virtual enviroment, Run brute force (python attack.py)
+Warning: This is for ethical use only. code responsibly
