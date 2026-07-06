@@ -23,8 +23,9 @@ A simple Python script to brute-force username and password combinations against
 3. Install packages if haven't been done before (pip install flask requests)
 
 4. Start Flask app (python app.py)
+   you will need to change the file directories in the code to your own respective paths towards testpwlist.txt & usernames.txt
 
-5. Within virtual enviroment, Run brute force (python attack.py)
+6. Within virtual enviroment, Run brute force (python attack.py)
 
 ## Warning!!!
 This is to demonstrate a brute force attack for educational putposes in a controlled enviroment. code ethically & responsibly
